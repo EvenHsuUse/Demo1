@@ -1,5 +1,5 @@
-bin/*
-obj/*
-.vs/*
-GitHubDemo/.vs/*
-.vs/GitHubDemo/v17/
+﻿/.vs/Demo1/*
+/.vs/*
+/GitHubDemo/.vs/*
+/GitHubDemo/bin/*
+/GitHubDemo/obj/*
