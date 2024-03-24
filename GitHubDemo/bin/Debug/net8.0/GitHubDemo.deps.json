@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GitHubDemo/1.0.0": {
+        "runtime": {
+          "GitHubDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GitHubDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
