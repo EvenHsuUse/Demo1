@@ -1,2 +1,5 @@
-
-Demo1.txt
+bin/*
+obj/*
+.vs/*
+GitHubDemo/.vs/*
+.vs/GitHubDemo/v17/

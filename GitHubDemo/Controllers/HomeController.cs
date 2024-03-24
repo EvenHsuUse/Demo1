@@ -15,7 +15,6 @@ namespace GitHubDemo.Controllers
 
         public IActionResult Index()
         {
-            // test
             return View();
         }
 
